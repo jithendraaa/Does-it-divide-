@@ -1,4 +1,4 @@
- Does-it-divide-
+ 
 #include<iostream>
  
 using namespace std;
